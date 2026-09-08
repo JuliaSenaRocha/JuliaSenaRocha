@@ -1,5 +1,4 @@
 # Muito Prazer, me chamo Júlia Sena Rocha!
-<tr></tr>
 
 ## 🛠️ Sobre mim
 
