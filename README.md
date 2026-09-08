@@ -1,6 +1,5 @@
 # Muito Prazer, me chamo Júlia Sena Rocha!
-
-## 🛠️ Sobre mim
+🛠️ Sobre mim
 
 Olá! Sou **Jovem Aprendiz em Usinagem de Grandes Peças**, focada no desenvolvimento de competências em **gestão de processos, organização e melhoria contínua**.
 
